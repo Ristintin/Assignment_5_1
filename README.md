@@ -1,3 +1,7 @@
 # Assignment_5_1
 “Will a customer accept the coupon?” The goal of this project is to use what you know about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
-Summary
+## Summary
+"People over the age of 25 will frequent the bar more than those who are younger. Those who have passangers and without kids will go more"
+"and those who have a smaller income at <50K will go more often with a coupon at the same rate as someone who goes once a month under 30."
+## Imacts of weather
+"how different weather conditions affect coupon acceptance rates for various types of dining establishments. At a cooler temperature of 30 degrees, the acceptance rates are relatively lower compared to warmer temperatures, with "Carry out & Take away" having the highest acceptance at about 75.92%, followed by "Restaurant(<20)" at 53.83%. As the temperature rises to 55 degrees, there's a noticeable increase in coupon acceptance across all categories, particularly at "Restaurant(<20)" where the rate jumps significantly to 73.41%. The highest temperature recorded, 80 degrees, shows the peak acceptance rates for almost all categories, with "Restaurant(<20)" reaching nearly 75.94% and "Carry out & Take away" maintaining a strong performance at 72.77%. This data suggests a trend where warmer weather potentially encourages higher rates of coupon acceptance, particularly for less expensive dining options and take-away services."
